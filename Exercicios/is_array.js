@@ -16,3 +16,4 @@ function is_array (n){
 
 console.log(is_array("Exercicio"))
 console.log(is_array([1,2,3,4]))
+
